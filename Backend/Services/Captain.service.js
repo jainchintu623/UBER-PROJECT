@@ -17,7 +17,7 @@ module.exports.createCaptain = async ({
             color,
             plate,
             capacity,
-            type:vehicleType
+            vehicleType
         }
     })
     return captain;
